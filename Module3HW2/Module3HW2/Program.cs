@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PhoneBook
+namespace Module3HW2
 {
     class Program
     {
